@@ -55,19 +55,6 @@
 
 
 ### 실행 필요 Module
-
-소스코드 - python_최종과제2017202011김영우.ipynb
-엑셀 파일 - webtoon_list.xlsx
-폰트파일 - CookieRun Black.ttf (경고문을 적기 위한 폰트 파일)
-4-2. 사용 모듈
-요일을 구하기 위한 time 모듈
-파일을 다루기 위한 os, sys 모듈
-엑셀을 다루기 위한 openpyxl
-메일을 발송하기 위한 smtplib모듈과 email 패키지
-크롤링을 위한 BeautifulSoup4, requests 모듈
-저장할 웹툰의 이미지를 합치고 가공하기 위해 pillow모듈
-주기적인 실행을 위한 schedule 모듈
-아래의 3개의 모듈을 제외하고 나머지는
-파이썬 기본 모듈과 아나콘다 내장모듈을 사용하였다.
+ 세부 내용은 **웹툰 메일링.ipynb** 참고
 
 
